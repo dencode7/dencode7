@@ -1,6 +1,7 @@
 # Daniel Guimarães - Engenharia de Software
 
 Formado em Marketing | Graduando em Engenharia de Software | Efetuando um Especialização em Product Management
+
 *Sou um entudiasta da tecnologia, amante do conhecimento no geral e fascinado por animes e mawnhas.*
 
 #

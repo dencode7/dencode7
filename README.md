@@ -1,8 +1,8 @@
 # Daniel Guimarães - Engenharia de Software
 
-Formado em Marketing | Graduando em Engenharia de Software | Efetuando um Especialização em Product Management
+Formado em Marketing | Graduando em Engenharia de Software | Realizando uma Especialização em Product Management
 
-*Sou um entudiasta da tecnologia, amante do conhecimento no geral e fascinado por animes e mawnhas.*
+*Sou um entusiasta da tecnologia, amante do conhecimento no geral e fascinado por animes e manhwas.*
 
 #
 Não fui eu que lhe ordenei? Seja forte e corajoso! Não se apavore, nem se desanime, pois o Senhor, o seu Deus, estará com você por onde você andar." - Josué 1:9 
@@ -21,7 +21,7 @@ Não fui eu que lhe ordenei? Seja forte e corajoso! Não se apavore, nem se desa
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-black?style=for-the-badge&logo=bootstrap&labelColor=black)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-black?style=for-the-badge&logo=bootstrap&labelColor=black)
 ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)
